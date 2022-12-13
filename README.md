@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @embarthe51
+- 🌱 I've just finished the bootcamp at @Le Wagon Paris, in Web Development
+- You can see my final project on my repo : Legendaddy
+- I am currently looking for a job as fullstack developer
 - 👀 J'aime les voyages, la cuisine, l'escalade et découvrir de nouvelles choses. 
-- 🌱 Je suis actuellement une formation de web Developement @Le Wagon
 - 📫 How to reach me : bartheemeline@gmail.com
 
 <!---
